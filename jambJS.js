@@ -17,7 +17,7 @@ cancel.addEventListener("click", function(){
 nest_list.forEach(item => {
     item.querySelector('a').addEventListener(
         "click", function(event){
-            event.preventDefault();
+        
 
             item.querySelector(".sublink").style.display = item.querySelector(".sublink").style.display === 
             "block" ? "none" : "block";
