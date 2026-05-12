@@ -22,10 +22,7 @@ A frontend-focused project replicating JAMB (Joint Admissions and Matriculation 
 2. Open `index.html` in your browser
 3. Explore the project structure
 
-## 📖 Documentation
 
-For more details, check the [Wiki](https://github.com/G3TECH1/Jamb-replicate/wiki).
 
----
 
 **Repository**: [G3TECH1/Jamb-replicate](https://github.com/G3TECH1/Jamb-replicate)
